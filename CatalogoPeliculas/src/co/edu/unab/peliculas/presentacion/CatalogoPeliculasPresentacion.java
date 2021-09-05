@@ -12,7 +12,7 @@ public class CatalogoPeliculasPresentacion {
         ICatalogoPeliculas catalogo = new CatalogoPeliculasImpl();
         while (opcion != 0) {
             System.out.println("Elige una opcion: \n"
-                    + "1. Iniciar catalogo peliculas \n"
+                    + "1. Iniciar nuevo****** catalogo peliculas \n"
                     + "2. Agregar Pelicula\n"
                     + "3. Listar Peliculas\n"
                     + "4. Buscar pelicula\n"
